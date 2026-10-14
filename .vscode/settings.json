@@ -1,0 +1,9 @@
+{
+  "terminal.integrated.profiles.windows": {
+    "PowerShell (project)": {
+      "source": "PowerShell",
+      "args": ["-NoLogo", "-ExecutionPolicy", "Bypass"]
+    }
+  },
+  "terminal.integrated.defaultProfile.windows": "PowerShell (project)"
+}
